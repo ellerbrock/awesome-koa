@@ -1,0 +1,11 @@
+*~
+*.log
+*.sh
+*.pid
+*.org.md
+.tscache
+/template.md
+/local
+/templates
+/typings
+node_modules
