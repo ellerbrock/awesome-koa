@@ -2,3 +2,9 @@ language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
 script: awesome_bot --allow-dupe --allow-redirect *.md
+notifications:
+  email:
+    on_success: never
+    on_failure: always
+  slack:
+    secure: wZl/xMpwqL3IXJ4+VagLkUWITYGkcop2hEqaQOQZ4qUf32IgxTfjkecd20/YOM1LrW79NWTJyeCv7Y4HX64AnTic0l99Ibg/QSTHG+5tksWS32o1fFy2j4GbmEBED67LjEiJuNgL911qm2LLtxzQ+rZojIr1W8VXziLyGE5Zlb3WAtVJOowHAOT23X1OrS/nX7mgOmDYeDh8Xvhcogb7Rk/ZauUAu1tVJvGM4g+KznVJh+N42WGAKZo94vxLGogpN5Gsfyt/HROlo35iT7+WS3W9prVQSispEyDQfIueXcy/np+XTpOGIscgSCz602HAq3/jYlw+aHFpa6fSPjk8K2wx6ZWewQfWhSKXwomFsQaGLbLYWn5HTMwiikGHsD4riysF9bOEE3Ez8xOOYOn551h/RPUmKIDkINILId6AuYHxad+6D2mwTa8sSniXexZ3WlyQGZ7rvso1RMEGxTtfoJyxlte9TFOc73bQ3JG+vrFY7q3YKsG+04h1dTOun0xJsIejI/vaV16DMSc/+BZSmztDUTGjWsYWPygk92nfYULEUFA6vdQXQjjmyOun0YNxcRGsmZnF/JURE28Pu0wXKq9WwpiU7ZR2AazO4c9txz2IxlK+AwAhkkOfZLYWGqdmwwP/vnyI06CQZEAzQdE9GC/7RDJh+GTg52xCL2ubpbY=
