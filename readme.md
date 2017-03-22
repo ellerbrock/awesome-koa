@@ -32,6 +32,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [workshop](https://github.com/koajs/workshop) - Koa Training Workshop
 - [examples](https://github.com/koajs/examples) - Example Koa apps
 - [babel-es6-es7-npm-skeleton](https://github.com/ellerbrock/babel-es6-es7-npm-skeleton) - Babel ES6 / ES7 - Testing, Benchmark, Auto Reload, Linting
+- [koa-firebase](https://github.com/antonybudianto/koa-firebase) - Koa with Firebase middleware integration starter
 
   **Info:** Lots of the Examples and Boilerplattes are outdated.<br>
   Also some of the features not work straight out of the Box with the new Version.<br>
