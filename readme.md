@@ -22,9 +22,6 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators
 - [co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs
 
-  **Info:** The cutting edge stuff is in the [2x](https://github.com/koajs/koa/tree/v2.x) Branch.<br>
-  Make sure to install your middleware and extensions with `npm package@next` to avoid breaking things ...
-
 ## Examples & Boilerplates
 
 - [api-boilerplate](https://github.com/koajs/api-boilerplate) - API application boilerplate
