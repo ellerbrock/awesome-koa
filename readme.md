@@ -22,9 +22,6 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators
 - [co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs
 
-  **Info:** The cutting edge stuff is in the [2x](https://github.com/koajs/koa/tree/v2.x) Branch.<br>
-  Make sure to install your middleware and extensions with `npm package@next` to avoid breaking things ...
-
 ## Examples & Boilerplates
 
 - [api-boilerplate](https://github.com/koajs/api-boilerplate) - API application boilerplate
@@ -32,6 +29,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [workshop](https://github.com/koajs/workshop) - Koa Training Workshop
 - [examples](https://github.com/koajs/examples) - Example Koa apps
 - [babel-es6-es7-npm-skeleton](https://github.com/ellerbrock/babel-es6-es7-npm-skeleton) - Babel ES6 / ES7 - Testing, Benchmark, Auto Reload, Linting
+- [K2](https://github.com/hongymagic/k2) - Koa2, Babel ES6/7, GraphQL, passport-local based authentication, PostgreSQL, Jest for Unit and Integration testing and more
 - [koa-firebase](https://github.com/antonybudianto/koa-firebase) - Koa with Firebase middleware integration starter
 
   **Info:** Lots of the Examples and Boilerplattes are outdated.<br>
