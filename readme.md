@@ -31,7 +31,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [babel-es6-es7-npm-skeleton](https://github.com/ellerbrock/babel-es6-es7-npm-skeleton) - Babel ES6 / ES7 - Testing, Benchmark, Auto Reload, Linting
 - [K2](https://github.com/hongymagic/k2) - Koa2, Babel ES6/7, GraphQL, passport-local based authentication, PostgreSQL, Jest for Unit and Integration testing and more
 - [koa-firebase](https://github.com/antonybudianto/koa-firebase) - Koa with Firebase middleware integration starter
-
+- [koalerplate](https://github.com/koajs/accesslog) - A simple Koa 2 boilerplate for API's using ES6.
   **Info:** Lots of the Examples and Boilerplattes are outdated.<br>
   Also some of the features not work straight out of the Box with the new Version.<br>
   I'm working on a Boilerplatte with all the cutting edge stuff and will publish it later on my [GitHub Account](https://github.com/ellerbrock).
