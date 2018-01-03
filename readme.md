@@ -32,6 +32,9 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [K2](https://github.com/hongymagic/k2) - Koa2, Babel ES6/7, GraphQL, passport-local based authentication, PostgreSQL, Jest for Unit and Integration testing and more
 - [koa-firebase](https://github.com/antonybudianto/koa-firebase) - Koa with Firebase middleware integration starter
 - [koalerplate](https://github.com/dbalas/koalerplate) - A simple Koa 2 boilerplate for API's using ES6.
+- Tutorials:
+  - [Building a RESTful API with Koa and Postgres](http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres)
+  - [User Authentication with Passport and Koa](http://mherman.org/blog/2018/01/02/user-authentication-with-passport-and-koa)
   
   **Info:** Lots of the Examples and Boilerplattes are outdated.<br>
   Also some of the features not work straight out of the Box with the new Version.<br>
