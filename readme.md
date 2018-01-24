@@ -86,6 +86,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [koa-markdown](https://github.com/koajs/koa-markdown) - Auto convert markdown to html for koa. Inspired by connect-markdown
 - [koa-range](https://github.com/koajs/koa-range) - range request implementation for koa, see <http://tools.ietf.org/html/rfc7233>
 - [koa-redis](https://github.com/koajs/koa-redis) - koa session with redis
+- [koa-response-handler](https://github.com/potatogopher/koa-response-handler) - lightweight response handler for koa
 - [koa-roles](https://github.com/koajs/koa-roles) - koa version of Connect-Roles
 - [koa-rt](https://github.com/koajs/koa-rt) - koa rt with microtime
 - [koa-safe-jsonp](https://github.com/koajs/koa-safe-jsonp) - Safe jsonp plusins for koa.
