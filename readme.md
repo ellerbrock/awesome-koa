@@ -127,6 +127,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [trie-router](https://github.com/koajs/trie-router) - Trie-routing for Koa
 - [userauth](https://github.com/koajs/userauth) - koa user auth middleware
 - [workshop](https://github.com/koajs/workshop) - Koa Training Workshop
+- [koa-protect](https://github.com/may215/koa-protect) - Security module for koa applications
 
 ## Generators
 
