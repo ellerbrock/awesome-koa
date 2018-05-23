@@ -80,6 +80,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [jwt](https://github.com/koajs/jwt) - Koa middleware for validating JSON Web Tokens
 - [kick-off-koa](https://github.com/koajs/kick-off-koa) - An intro to koa via a set of self-guided workshops
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators
+- [koa-body-clean](https://github.com/rferro/koa-body-clean) - Koa middleware for auto cleanup files created to disk by multipart middlewares
 - [koa-fresh](https://github.com/koajs/koa-fresh) - koa-fresh: HTTP response freshness testing middleware base on koa and node-fresh
 - [koa-github](https://github.com/koajs/koa-github) - simple github auth middleware for koa
 - [koa-lusca](https://github.com/koajs/koa-lusca) - koa version of lusca. Application security for koa.
