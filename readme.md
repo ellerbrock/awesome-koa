@@ -33,13 +33,16 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [koa-firebase](https://github.com/antonybudianto/koa-firebase) - Koa with Firebase middleware integration starter
 - [koalerplate](https://github.com/dbalas/koalerplate) - A simple Koa 2 boilerplate for API's using ES6.
 - [koa-hasura](https://hasura.io/hub/project/hasura/hello-nodejs-koa) - Koa app starter kit with Hasura deployment
-- Tutorials:
-  - [Building a RESTful API with Koa and Postgres](http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres)
-  - [User Authentication with Passport and Koa](http://mherman.org/blog/2018/01/02/user-authentication-with-passport-and-koa)
+- [koa2-api-boilerplate](https://github.com/valera-shulghin/koa2-api-boilerplate) - Koa2, Knex, es6-error, Gulp, ApiDoc, ESLint, koa-validate, JWT.
+
+## Tutorials
+
+- [Building a RESTful API with Koa and Postgres](http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres)
+- [User Authentication with Passport and Koa](http://mherman.org/blog/2018/01/02/user-authentication-with-passport-and-koa)
   
-  **Info:** Lots of the Examples and Boilerplattes are outdated.<br>
-  Also some of the features not work straight out of the Box with the new Version.<br>
-  I'm working on a Boilerplatte with all the cutting edge stuff and will publish it later on my [GitHub Account](https://github.com/ellerbrock).
+**Info:** Lots of the Examples and Boilerplattes are outdated.<br>
+Also some of the features not work straight out of the Box with the new Version.<br>
+I'm working on a Boilerplatte with all the cutting edge stuff and will publish it later on my [GitHub Account](https://github.com/ellerbrock).
 
 ## Middleware
 
@@ -81,14 +84,17 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [jwt](https://github.com/koajs/jwt) - Koa middleware for validating JSON Web Tokens
 - [kick-off-koa](https://github.com/koajs/kick-off-koa) - An intro to koa via a set of self-guided workshops
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators
+- [koa-body-clean](https://github.com/rferro/koa-body-clean) - Koa middleware for auto cleanup files created to disk by multipart middlewares
 - [koa-fresh](https://github.com/koajs/koa-fresh) - koa-fresh: HTTP response freshness testing middleware base on koa and node-fresh
 - [koa-github](https://github.com/koajs/koa-github) - simple github auth middleware for koa
 - [koa-lusca](https://github.com/koajs/koa-lusca) - koa version of lusca. Application security for koa.
 - [koa-markdown](https://github.com/koajs/koa-markdown) - Auto convert markdown to html for koa. Inspired by connect-markdown
 - [koa-range](https://github.com/koajs/koa-range) - range request implementation for koa, see <http://tools.ietf.org/html/rfc7233>
 - [koa-redis](https://github.com/koajs/koa-redis) - koa session with redis
+- [koa-response-handler](https://github.com/potatogopher/koa-response-handler) - lightweight response handler for koa
 - [koa-roles](https://github.com/koajs/koa-roles) - koa version of Connect-Roles
 - [koa-rt](https://github.com/koajs/koa-rt) - koa rt with microtime
+- [koa-custom-response](https://github.com/DhyanaChina/koa-custom-response) - standard RESTful API for koa
 - [koa-safe-jsonp](https://github.com/koajs/koa-safe-jsonp) - Safe jsonp plusins for koa.
 - [koa.io](https://github.com/koajs/koa.io) - Realtime web framework combine koa and socket.io.
 - [koala](https://github.com/koajs/koala) - [SEEKING MAINTAINER] An HTTP/2 and ES6 Module-ready Koa Suite
@@ -128,6 +134,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [trie-router](https://github.com/koajs/trie-router) - Trie-routing for Koa
 - [userauth](https://github.com/koajs/userauth) - koa user auth middleware
 - [workshop](https://github.com/koajs/workshop) - Koa Training Workshop
+- [koa-protect](https://github.com/may215/koa-protect) - Security module for koa applications
 
 ## Generators
 
