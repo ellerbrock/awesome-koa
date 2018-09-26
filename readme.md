@@ -33,14 +33,17 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [K2](https://github.com/hongymagic/k2) - Koa2, Babel ES6/7, GraphQL, passport-local based authentication, PostgreSQL, Jest for Unit and Integration testing and more
 - [koa-firebase](https://github.com/antonybudianto/koa-firebase) - Koa with Firebase middleware integration starter
 - [koalerplate](https://github.com/dbalas/koalerplate) - A simple Koa 2 boilerplate for API's using ES6.
+- [koa-hasura](https://hasura.io/hub/project/hasura/hello-nodejs-koa) - Koa app starter kit with Hasura deployment
 - [koa2-api-boilerplate](https://github.com/valera-shulghin/koa2-api-boilerplate) - Koa2, Knex, es6-error, Gulp, ApiDoc, ESLint, koa-validate, JWT.
-- Tutorials:
-  - [Building a RESTful API with Koa and Postgres](http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres)
-  - [User Authentication with Passport and Koa](http://mherman.org/blog/2018/01/02/user-authentication-with-passport-and-koa)
+
+## Tutorials
+
+- [Building a RESTful API with Koa and Postgres](http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres)
+- [User Authentication with Passport and Koa](http://mherman.org/blog/2018/01/02/user-authentication-with-passport-and-koa)
   
-  **Info:** Lots of the Examples and Boilerplattes are outdated.<br>
-  Also some of the features not work straight out of the Box with the new Version.<br>
-  I'm working on a Boilerplatte with all the cutting edge stuff and will publish it later on my [GitHub Account](https://github.com/ellerbrock).
+**Info:** Lots of the Examples and Boilerplattes are outdated.<br>
+Also some of the features not work straight out of the Box with the new Version.<br>
+I'm working on a Boilerplatte with all the cutting edge stuff and will publish it later on my [GitHub Account](https://github.com/ellerbrock).
 
 ## Middleware
 
