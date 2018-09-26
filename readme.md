@@ -24,6 +24,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 
 ## Examples & Boilerplates
 
+- [koa-rest-api-boilerplate](https://github.com/posquit0/koa-rest-api-boilerplate) - Boilerplate for Node.js Koa RESTful API application with Docker, Swagger, Jest, Coveralls and CircleCI
 - [api-boilerplate](https://github.com/koajs/api-boilerplate) - API application boilerplate
 - [kick-off-koa](https://github.com/koajs/kick-off-koa) - An intro to koa via a set of self-guided workshops
 - [workshop](https://github.com/koajs/workshop) - Koa Training Workshop
