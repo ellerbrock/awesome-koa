@@ -35,6 +35,8 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [koalerplate](https://github.com/dbalas/koalerplate) - A simple Koa 2 boilerplate for API's using ES6.
 - [koa-hasura](https://hasura.io/hub/project/hasura/hello-nodejs-koa) - Koa app starter kit with Hasura deployment
 - [koa2-api-boilerplate](https://github.com/valera-shulghin/koa2-api-boilerplate) - Koa2, Knex, es6-error, Gulp, ApiDoc, ESLint, koa-validate, JWT.
+- [koa-user-api-boilerplate](https://github.com/maotora/koa-userapi) - User API boilerplate using Koa2, Full ES6 & 7 support, Passport & JWT with tests.
+- [koa-blog-api-boilerplate](https://github.com/maotora/koa-blogapi) - Blog API extended from [koa-user-api-boilerplate](https://github.com/maotora/koa-userapi) authentication layer with ES6 & 7 support.
 
 ## Tutorials
 
