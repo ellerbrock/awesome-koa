@@ -138,6 +138,7 @@ I'm working on a Boilerplatte with all the cutting edge stuff and will publish i
 - [userauth](https://github.com/koajs/userauth) - koa user auth middleware
 - [workshop](https://github.com/koajs/workshop) - Koa Training Workshop
 - [koa-protect](https://github.com/may215/koa-protect) - Security module for koa applications
+- [koache](https://github.com/jean-smaug/koache) - Koa cache based on node-cache
 
 ## Generators
 
