@@ -98,6 +98,7 @@ I'm working on a Boilerplatte with all the cutting edge stuff and will publish i
 - [koa-roles](https://github.com/koajs/koa-roles) - koa version of Connect-Roles
 - [koa-rt](https://github.com/koajs/koa-rt) - koa rt with microtime
 - [koa-custom-response](https://github.com/DhyanaChina/koa-custom-response) - standard RESTful API for koa
+- [koa-typescript-guide](https://github.com/WittBulter/koa2-typescript-guide) the best practice of building Koa2 with TypeScript
 - [koa-safe-jsonp](https://github.com/koajs/koa-safe-jsonp) - Safe jsonp plusins for koa.
 - [koa.io](https://github.com/koajs/koa.io) - Realtime web framework combine koa and socket.io.
 - [koala](https://github.com/koajs/koala) - [SEEKING MAINTAINER] An HTTP/2 and ES6 Module-ready Koa Suite
