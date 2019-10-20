@@ -101,6 +101,7 @@ I'm working on a Boilerplatte with all the cutting edge stuff and will publish i
 - [koa-typescript-guide](https://github.com/WittBulter/koa2-typescript-guide) the best practice of building Koa2 with TypeScript
 - [koa-safe-jsonp](https://github.com/koajs/koa-safe-jsonp) - Safe jsonp plusins for koa.
 - [koa.io](https://github.com/koajs/koa.io) - Realtime web framework combine koa and socket.io.
+- [koa-ts-controllers](https://github.com/iyobo/koa-ts-controllers) - Typescript/decorator based Rest controller/router for Koa2+.
 - [koala](https://github.com/koajs/koala) - [SEEKING MAINTAINER] An HTTP/2 and ES6 Module-ready Koa Suite
 - [locales](https://github.com/koajs/locales) - koa locales, i18n solution for koa
 - [logger](https://github.com/koajs/logger) - Development style logging middleware
