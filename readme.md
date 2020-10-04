@@ -2,13 +2,13 @@
 
 # Awesome Koa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Javascript](https://badges.frapsoft.com/javascript/code/javascript.svg?v=100)](https://github.com/ellerbrock/javascript-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
-> Useful resources for creating apps and working with [Koa](http://koajs.com) 
+> Useful resources for creating apps and working with [Koa](http://koajs.com)
 
-  - [Links](#links)
-  - [Examples & Boilerplates](#examples--boilerplates)
-  - [Middleware](#middleware)
-  - [Others](#others)
-  - [Videos](#videos)
+- [Links](#links)
+- [Examples & Boilerplates](#examples--boilerplates)
+- [Middleware](#middleware)
+- [Others](#others)
+- [Videos](#videos)
 
 ## Status
 
@@ -42,7 +42,7 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 
 - [Building a RESTful API with Koa and Postgres](http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres)
 - [User Authentication with Passport and Koa](http://mherman.org/blog/2018/01/02/user-authentication-with-passport-and-koa)
-  
+
 **Info:** Lots of the Examples and Boilerplattes are outdated.<br>
 Also some of the features not work straight out of the Box with the new Version.<br>
 I'm working on a Boilerplatte with all the cutting edge stuff and will publish it later on my [GitHub Account](https://github.com/ellerbrock).
@@ -99,6 +99,7 @@ I'm working on a Boilerplatte with all the cutting edge stuff and will publish i
 - [koa-rt](https://github.com/koajs/koa-rt) - koa rt with microtime
 - [koa-custom-response](https://github.com/DhyanaChina/koa-custom-response) - standard RESTful API for koa
 - [koa-typescript-guide](https://github.com/WittBulter/koa2-typescript-guide) the best practice of building Koa2 with TypeScript
+- [koa-twig](https://github.com/jean-smaug/koa-twig) - use twig as template engine
 - [koa-safe-jsonp](https://github.com/koajs/koa-safe-jsonp) - Safe jsonp plusins for koa.
 - [koa.io](https://github.com/koajs/koa.io) - Realtime web framework combine koa and socket.io.
 - [koa-ts-controllers](https://github.com/iyobo/koa-ts-controllers) - Typescript/decorator based Rest controller/router for Koa2+.
